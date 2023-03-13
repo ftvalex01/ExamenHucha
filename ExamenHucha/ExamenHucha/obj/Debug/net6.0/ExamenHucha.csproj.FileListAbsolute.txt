@@ -1,0 +1,15 @@
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\bin\Debug\net6.0\ExamenHucha.exe
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\bin\Debug\net6.0\ExamenHucha.deps.json
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\bin\Debug\net6.0\ExamenHucha.runtimeconfig.json
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\bin\Debug\net6.0\ExamenHucha.dll
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\bin\Debug\net6.0\ExamenHucha.pdb
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\obj\Debug\net6.0\ExamenHucha.csproj.AssemblyReference.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\obj\Debug\net6.0\ExamenHucha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\obj\Debug\net6.0\ExamenHucha.AssemblyInfoInputs.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\obj\Debug\net6.0\ExamenHucha.AssemblyInfo.cs
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\obj\Debug\net6.0\ExamenHucha.csproj.CoreCompileInputs.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\obj\Debug\net6.0\ExamenHucha.dll
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\obj\Debug\net6.0\refint\ExamenHucha.dll
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\obj\Debug\net6.0\ExamenHucha.pdb
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\obj\Debug\net6.0\ExamenHucha.genruntimeconfig.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\ExamenHucha\ExamenHucha\ExamenHucha\obj\Debug\net6.0\ref\ExamenHucha.dll
